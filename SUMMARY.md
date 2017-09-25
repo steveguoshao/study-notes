@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Pinpoint分布式部署以及使用指南](/pinpoint.md)
 * Zookeeper
 * Hadoop
 * HBase
@@ -10,6 +9,7 @@
 * Docker
 * Concurrency
 * JVM
+* [Pinpoint](https://www.gitbook.com/book/steveguoshao/study-notes/edit#)
 
 
 
