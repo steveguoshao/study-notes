@@ -8,7 +8,7 @@ cd /usr/local/hbbase/bin
 
 1.6.x版本的所有的脚本地址：[https://github.com/naver/pinpoint/tree/1.6.x/hbase/scripts](https://github.com/naver/pinpoint/tree/1.6.x/hbase/scripts)
 
-2.下载pinpoint
+2.下载pinpoint-collector
 
 下载1.6.2 Releases版本，地址：[https://github.com/naver/pinpoint/releases/tag/1.6.2](https://github.com/naver/pinpoint/releases/tag/1.6.2)
 
