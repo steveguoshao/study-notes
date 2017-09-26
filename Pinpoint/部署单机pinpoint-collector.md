@@ -43,3 +43,5 @@ hbase.client.host=zookeeper集群的地址
 
 hbase.client.port=zookeeper集群的端口
 
+5.
+
