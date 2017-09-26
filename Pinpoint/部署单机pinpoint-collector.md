@@ -76,13 +76,11 @@ cluster.zookeeper.sessiontimeout=30000
 cluster.listen.ip=99.48.18.227
 # collector监听端口 
 cluster.listen.port=9090
-##注意：这两个配置对应的pinpoint-web/WEB-INF/classes/pinpoint-web.properties中的cluster.connect.address=cluster.listen.ip: cluster.listen.port
+##注意：这两个配置对应的pinpoint-web/WEB-INF/classes/pinpoint-web.properties中的cluster.connect.address=cluster.listen.ip:cluster.listen.port
 
 # collector admin 用户的密码
 collector.admin.password=1qaz@WSX
 ```
 
 完整配置项：[https://github.com/naver/pinpoint/blob/master/collector/src/main/resources/pinpoint-collector.properties](https://github.com/naver/pinpoint/blob/master/collector/src/main/resources/pinpoint-collector.properties)
-
-
 
