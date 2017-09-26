@@ -7,8 +7,9 @@
 3. #### [部署单机pinpoint-collector](#部署单机pinpoint-collector)
 4. #### [部署单机pinpoint-web](#部署单机pinpoint-web)
 5. #### [部署pinpoint-collector集群](#部署pinpoint-collector集群)
-6. #### [报警设置](#报警设置)
+6. #### [部署pinpoint-agent](#部署pinpoint-agent)
 7. #### [pinpoint-web的使用](#pinpoint-web的使用)
+8. #### [报警设置](https://www.gitbook.com/book/steveguoshao/study-notes/edit#)
 
 
 
