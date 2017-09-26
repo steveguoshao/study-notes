@@ -9,7 +9,7 @@ wget --no-cookie --no-check-certificate --header "Cookie:oraclelicense=accept-se
 
 如果网络比较慢的话自己去git clone [https://github.com/naver/pinpoint](https://github.com/naver/pinpoint) 切换到1.6.x 自己编译
 
-3.解压
+2.解压
 
 将 pinpoint-web-1.6.2.war 解压到 /usr/local/src/apache-tomcat-8.5.20/webapps/ROOT/ 中
 
@@ -18,5 +18,5 @@ rm -rf /usr/local/src/apache-tomcat-8.5.20/webapps/*
 unzip -oq pinpoint-web-1.6.2.war -d /usr/local/src/apache-tomcat-8.5.20/webapps/ROOT/
 ```
 
-
+3.
 

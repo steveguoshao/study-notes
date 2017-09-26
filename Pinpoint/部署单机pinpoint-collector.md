@@ -33,15 +33,11 @@ unzip -oq pinpoint-collector-1.6.2.war -d /usr/local/src/apache-tomcat-8.5.20/we
 ```
 cd /usr/local/src/apache-tomcat-8.5.20/webapps/ROOT/WEB-INF/classes
 vim hbase.properties
+# zookeeper集群的地址
 hbase.client.host=99.48.18.233,99.48.18.235,99.48.18.236
+# zookeeper集群的端口
 hbase.client.port=2181
 ```
-
-主要是修改两个配置：
-
-hbase.client.host=zookeeper集群的地址
-
-hbase.client.port=zookeeper集群的端口
 
 完整配置项：[https://github.com/naver/pinpoint/blob/master/collector/src/main/resources/hbase.properties](https://www.gitbook.com/book/steveguoshao/study-notes/edit#)
 
