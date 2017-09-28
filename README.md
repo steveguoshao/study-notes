@@ -1,14 +1,14 @@
 # Java 分布式学习笔记
 
-1. #### Cocurrency
-2. #### JVM
-3. #### Zookeeper
-4. #### Hadoop
-5. #### HBase
-6. #### Opentsdb
-7. #### Kafka
-8. #### Docker
-9. #### Pinpoint
+---
+
+[gitbook](https://www.gitbook.com/book/steveguoshao/study-notes/details)
+
+[github](https://github.com/steveguoshao/study-notes)
+
+[在线阅读](https://steveguoshao.gitbooks.io/study-notes/content/)
+
+#### 
 
 
 
