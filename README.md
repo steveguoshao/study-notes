@@ -1,8 +1,8 @@
 # Java 分布式学习笔记
 
-[Gitbook](https://www.gitbook.com/book/steveguoshao/study-notes/details)
+在线阅读:
 
-[Github](https://github.com/steveguoshao/study-notes)
+[Gitbook](https://www.gitbook.com/book/steveguoshao/study-notes/details)  或 [Github](https://github.com/steveguoshao/study-notes)
 
-[在线阅读](https://steveguoshao.gitbooks.io/study-notes/content/)
+
 
