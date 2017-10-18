@@ -38,7 +38,7 @@
     * [部署pinpoint-collector集群](#部署pinpoint-collector集群)
     * [部署pinpoint-agent](#部署pinpoint-agent)
     * [pinpoint-web的使用](#pinpoint-web的使用)
-    * [报警设置](https://www.gitbook.com/book/steveguoshao/study-notes/edit#)
+    * [报警设置](/Pinpoint/分布式部署及使用指南/报警设置.md)
 
 
 
