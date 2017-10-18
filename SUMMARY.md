@@ -14,9 +14,13 @@
 
 * [HBase](/HBase/README.md)
 
+  * [分布式部署](/HBase/分布式部署.md)
+
 * [Opentsdb](/Opentsdb/README.md)
 
 * [Kafka](/Kafka/README.md)
+
+  * [分布式部署](/Kafka/分布式部署.md)
 
 * [Docker](/Docker/README.md)
 
@@ -24,7 +28,8 @@
 
 * [JVM](/JVM/README.md)
 
-* [Pinpoint分布式部署及使用指南](/Pinpoint/README.md)
+* [Pinpoint](/Pinpoint/README.md)
 
+* 
 
 
