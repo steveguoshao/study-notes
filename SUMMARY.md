@@ -30,6 +30,7 @@
 
 * [Pinpoint](/Pinpoint/README.md)
 
-* 
+  * [分布式部署及使用指南](/Pinpoint/分布式部署及使用指南/README.md)
+
 
 
