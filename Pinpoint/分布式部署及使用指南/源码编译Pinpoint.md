@@ -10,7 +10,7 @@ https://github.com/naver/pinpoint.git
 
 * 设置环境变量
 
-设置环境变量JAVA\__6\__HOME、JAVA\_7_\__HOME、JAVA\_8_\__HOME，可以全部指向同一个JDK，就看你当前环境用的是哪个版本的JDK了。
+设置环境变量JAVA\__6\_\_HOME、JAVA\_7_\__HOME、JAVA\_8_\_\_HOME，可以全部指向同一个JDK，就看你当前环境用的是哪个版本的JDK了。
 
 * 设置MAVEN仓库
 
