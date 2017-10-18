@@ -1,4 +1,4 @@
-### Pinpoint
+### Pinpoint分布式部署指南
 
 ---
 
