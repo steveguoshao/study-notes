@@ -31,7 +31,7 @@
 * [Pinpoint](/Pinpoint/README.md)
 
   * [分布式部署及使用指南](/Pinpoint/分布式部署及使用指南/README.md)
-    * [环境准备](#环境准备)
+    * [环境准备](/Pinpoint/分布式部署及使用指南/环境准备.md)
     * [源码编译pinpoint](#源码编译pinpoint)
     * [部署单机pinpoint-collector](#部署单机pinpoint-collector)
     * [部署单机pinpoint-web](#部署单机pinpoint-web)
