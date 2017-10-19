@@ -24,10 +24,6 @@
 
 * [Docker](/Docker/README.md)
 
-* [Concurrency](/Concurrency/README.md)
-
-* [JVM](/JVM/README.md)
-
 * [Pinpoint](/Pinpoint/README.md)
 
   * [分布式部署及使用指南](/Pinpoint/分布式部署及使用指南/README.md)
@@ -39,6 +35,12 @@
     * [部署pinpoint-agent](/Pinpoint/分布式部署及使用指南/部署pinpoint-agent.md)
     * [pinpoint-web的使用](/Pinpoint/分布式部署及使用指南/pinpoint-web的使用.md)
     * [报警设置](/Pinpoint/分布式部署及使用指南/报警设置.md)
+
+
+
+* [Concurrency](/Concurrency/README.md)
+
+* [JVM](/JVM/README.md)
 
 
 
