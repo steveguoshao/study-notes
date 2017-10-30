@@ -1,6 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
+* [Concurrency](/Concurrency/README.md)
+
+* [Gradle](/Gradle/README.md)
+
 * [Zookeeper](/Zookeeper/README.md)
   * [分布式部署](/Zookeeper/分布式部署.md)
 * [Hadoop](/Hadoop/README.md)
@@ -25,9 +29,7 @@
 * [Spring](/Spring/README.md)
 * [SpringMVC](springmvc.md)
 * [MyBatis](/MyBatis/README.md)
-* [Concurrency](/Concurrency/README.md)
 * [JVM](/JVM/README.md)
-* [Gradle](/Gradle/README.md)
 
 
 
