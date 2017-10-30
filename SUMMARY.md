@@ -2,20 +2,27 @@
 
 * [Introduction](README.md)
 * [Concurrency](/Concurrency/README.md)
-
+* [Docker](https://www.gitbook.com/book/steveguoshao/study-notes/edit#)
 * [Gradle](/Gradle/README.md)
 
-* [Zookeeper](/Zookeeper/README.md)
-  * [分布式部署](/Zookeeper/分布式部署.md)
 * [Hadoop](/Hadoop/README.md)
+
   * [配置ssh免密码登录](/Hadoop/配置ssh免密码登录.md)
+
   * [分布式部署](/Hadoop/分布式部署.md)
+
 * [HBase](/HBase/README.md)
   * [分布式部署](/HBase/分布式部署.md)
-* [Opentsdb](/Opentsdb/README.md)
-* [Kafka](/Kafka/README.md)
-  * [分布式部署](/Kafka/分布式部署.md)
-* [Docker](/Docker/README.md)
+* [JVM](/JVM/README.md)
+
+* [Kafka](https://www.gitbook.com/book/steveguoshao/study-notes/edit#)
+
+  * [分布式部署](https://www.gitbook.com/book/steveguoshao/study-notes/edit#)
+
+* [MyBatis](https://www.gitbook.com/book/steveguoshao/study-notes/edit#)
+
+* [Opentsdb](https://www.gitbook.com/book/steveguoshao/study-notes/edit#)
+
 * [Pinpoint](/Pinpoint/README.md)
   * [分布式部署及使用指南](/Pinpoint/分布式部署及使用指南/README.md)
     * [环境准备](/Pinpoint/分布式部署及使用指南/环境准备.md)
@@ -28,8 +35,9 @@
     * [报警设置](/Pinpoint/分布式部署及使用指南/报警设置.md)
 * [Spring](/Spring/README.md)
 * [SpringMVC](springmvc.md)
-* [MyBatis](/MyBatis/README.md)
-* [JVM](/JVM/README.md)
+* [Zookeeper](/Zookeeper/README.md)
+
+  * [分布式部署](/Zookeeper/分布式部署.md)
 
 
 
