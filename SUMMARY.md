@@ -23,14 +23,11 @@
     * [pinpoint-web的使用](/Pinpoint/分布式部署及使用指南/pinpoint-web的使用.md)
     * [报警设置](/Pinpoint/分布式部署及使用指南/报警设置.md)
 * [Spring](/Spring/README.md)
-
 * [SpringMVC](springmvc.md)
-
 * [MyBatis](/MyBatis/README.md)
-
 * [Concurrency](/Concurrency/README.md)
-
 * [JVM](/JVM/README.md)
+* [Gradle](/Gradle/README.md)
 
 
 
