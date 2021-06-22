@@ -1,61 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T12:46:52.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="HU1zxZOlpGB15Wq69v8K" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T09:15:57.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="HcKz1VoXtf2xIsBHFpZu" version="14.8.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="946" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="946" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6lbe-jNN2M312q7avVb3-1" value="活动定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="6lbe-jNN2M312q7avVb3-1" value="ActivityDefintion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="210" width="129" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-2" value="活动礼物配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="6lbe-jNN2M312q7avVb3-2" value="ActivitiyGiftConfig" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-3" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="6lbe-jNN2M312q7avVb3-1">
+        <mxCell id="6lbe-jNN2M312q7avVb3-3" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="6lbe-jNN2M312q7avVb3-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="340" y="310" as="sourcePoint" />
-            <mxPoint x="440" y="210" as="targetPoint" />
+            <mxPoint x="269" y="310" as="sourcePoint" />
+            <mxPoint x="369" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-4" value="活动奖励配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="6lbe-jNN2M312q7avVb3-4" value="ActivityRewardConfig" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-5" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="6lbe-jNN2M312q7avVb3-1" target="6lbe-jNN2M312q7avVb3-4">
+        <mxCell id="6lbe-jNN2M312q7avVb3-5" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="6lbe-jNN2M312q7avVb3-1" target="6lbe-jNN2M312q7avVb3-4" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="340" y="420" as="sourcePoint" />
-            <mxPoint x="430" y="305" as="targetPoint" />
+            <mxPoint x="269" y="420" as="sourcePoint" />
+            <mxPoint x="359" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-8" value="活动阶段定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="6lbe-jNN2M312q7avVb3-8" value="ActivityStageDefintion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="350" width="129" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-12" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6lbe-jNN2M312q7avVb3-8" target="6lbe-jNN2M312q7avVb3-4">
+        <mxCell id="6lbe-jNN2M312q7avVb3-12" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="6lbe-jNN2M312q7avVb3-8" target="6lbe-jNN2M312q7avVb3-4" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="440" y="440" as="sourcePoint" />
-            <mxPoint x="490" y="380" as="targetPoint" />
+            <mxPoint x="369" y="440" as="sourcePoint" />
+            <mxPoint x="419" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-13" value="活动奖励通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="6lbe-jNN2M312q7avVb3-13" value="ActivityRewardNotification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="599" y="290" width="161" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToOne;startArrow=ERmandOne;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6lbe-jNN2M312q7avVb3-4" target="6lbe-jNN2M312q7avVb3-13">
+        <mxCell id="6lbe-jNN2M312q7avVb3-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToOne;startArrow=ERmandOne;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6lbe-jNN2M312q7avVb3-4" target="6lbe-jNN2M312q7avVb3-13" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="590" y="500" as="sourcePoint" />
-            <mxPoint x="690" y="400" as="targetPoint" />
+            <mxPoint x="519" y="500" as="sourcePoint" />
+            <mxPoint x="619" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-15" value="活动Banner配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="6lbe-jNN2M312q7avVb3-15" value="AcitivityBannerConfig" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-17" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6lbe-jNN2M312q7avVb3-8" target="6lbe-jNN2M312q7avVb3-15">
+        <mxCell id="6lbe-jNN2M312q7avVb3-17" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6lbe-jNN2M312q7avVb3-8" target="6lbe-jNN2M312q7avVb3-15" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="370" y="470" as="sourcePoint" />
-            <mxPoint x="470" y="370" as="targetPoint" />
+            <mxPoint x="299" y="470" as="sourcePoint" />
+            <mxPoint x="399" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6lbe-jNN2M312q7avVb3-18" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6lbe-jNN2M312q7avVb3-1" target="6lbe-jNN2M312q7avVb3-8">
+        <mxCell id="6lbe-jNN2M312q7avVb3-18" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6lbe-jNN2M312q7avVb3-1" target="6lbe-jNN2M312q7avVb3-8" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="100" y="350" as="sourcePoint" />
-            <mxPoint x="300" y="580" as="targetPoint" />
+            <mxPoint x="29" y="350" as="sourcePoint" />
+            <mxPoint x="229" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
