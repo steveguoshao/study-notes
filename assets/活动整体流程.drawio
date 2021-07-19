@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T07:26:21.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="JaWcCZQU3FYD1BA5QBnE" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T03:47:47.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="llJZ2j1CGoip5hBJ2yl5" version="14.8.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="946" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="946" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YmFI_gbXvh4YqXWvI4yA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YmFI_gbXvh4YqXWvI4yA-1" target="YmFI_gbXvh4YqXWvI4yA-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YmFI_gbXvh4YqXWvI4yA-4" value="1.修改/发布配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YmFI_gbXvh4YqXWvI4yA-3" vertex="1" connectable="0">
+        <mxCell id="YmFI_gbXvh4YqXWvI4yA-4" value="1.配置活动并发布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YmFI_gbXvh4YqXWvI4yA-3" vertex="1" connectable="0">
           <mxGeometry x="-0.5167" relative="1" as="geometry">
             <mxPoint x="26" as="offset" />
           </mxGeometry>
